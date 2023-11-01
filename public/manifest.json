@@ -1,0 +1,25 @@
+{
+  "short_name": "Instamart",
+  "name": "Instamart: Crafting happiness!",
+  "icons": [
+    {
+      "src": "https://i.pinimg.com/originals/06/58/32/06583280c0aa7c7f049929aa8f0ad60b.jpg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/jpg"
+    },
+    {
+      "src": "https://i.pinimg.com/originals/06/58/32/06583280c0aa7c7f049929aa8f0ad60b.jpg",
+      "type": "image/jpg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "artisans.jpg",
+      "type": "image/jpg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
